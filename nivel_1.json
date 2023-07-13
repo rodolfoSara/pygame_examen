@@ -1,0 +1,231 @@
+{
+  "player": [
+      {
+      "x": 0,
+      "y" : 500,
+      "speed_walk" : 6,
+      "speed_run" : 12,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 100,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 1.8,
+      "interval_time_jump" : 300
+    }
+  ],
+  "enemigos": [
+      {
+      "x": 100,
+      "y" : 50,
+      "speed_walk": 6,
+      "speed_run" : 5,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.6,
+      "interval_time_jump" : 300
+    },
+    {
+      "x": 1200,
+      "y" : 50,
+      "speed_walk": 6,
+      "speed_run" : 5,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.6,
+      "interval_time_jump" : 300
+    },
+
+    {
+      "x": 350,
+      "y" : 200,
+      "speed_walk": 6,
+      "speed_run" : 5,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.6,
+      "interval_time_jump" : 300
+    },
+    {
+      "x": 1050,
+      "y" : 100,
+      "speed_walk": 6,
+      "speed_run" : 5,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.6,
+      "interval_time_jump" : 300
+    },
+
+    {
+      "x": 620,
+      "y" : 420,
+      "speed_walk": 6,
+      "speed_run" : 5,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.6,
+      "interval_time_jump" : 300
+    },
+    {
+      "x": 1300,
+      "y" : 340,
+      "speed_walk": 6,
+      "speed_run" : 5,
+      "gravity" : 14,
+      "jump_power" : 30,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.6,
+      "interval_time_jump" : 300
+    }
+  ],
+
+  "plataformas":[
+    {
+      "x": 0,
+      "y": 200,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 350,
+      "y": 200,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 750,
+      "y": 200,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 1100,
+      "y": 200,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+
+    {
+      "x": 260,
+      "y": 350,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 950,
+      "y": 350,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+
+    {
+      "x": 0,
+      "y": 450,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 650,
+      "y": 450,
+      "width": 200,
+      "height": 50,
+      "type": 3
+    },
+
+    {
+      "x": 100,
+      "y": 600,
+      "width": 400,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 500,
+      "y": 600,
+      "width": 400,
+      "height": 50,
+      "type": 3
+    },
+    {
+      "x": 1400,
+      "y": 600,
+      "width": 250,
+      "height": 50,
+      "type": 3
+    },
+
+     {
+      "x": 0,
+      "y": 750,
+      "width": 900,
+      "height": 50,
+      "type": 3
+    },
+     {
+      "x": 900,
+      "y": 750,
+      "width": 600,
+      "height": 50,
+      "type": 3
+    }
+  ],
+
+  "objetos":[
+    {
+      "x" : 10,
+      "y" : 115,
+      "speed_walk" : 6,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.8,
+      "interval_time_jump" : 300
+    },
+    {
+      "x" : 1435,
+      "y" : 510,
+      "speed_walk" : 6,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.8,
+      "interval_time_jump" : 300
+    },
+    {
+      "x" : 820,
+      "y" : 115,
+      "speed_walk" : 6,
+      "frame_rate_ms" : 150,
+      "move_rate_ms" : 50,
+      "jump_height" : 140,
+      "p_scale" : 0.8,
+      "interval_time_jump" : 300
+    }
+  ]
+}
+
